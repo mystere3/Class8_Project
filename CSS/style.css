@@ -1,0 +1,20 @@
+html{
+}
+.catCursor{
+    cursor:url(../images/cursorCat.png), auto;
+}
+.container{
+	border: solid 1px red;
+	width: 100%;
+}
+
+.jumbotron{
+	width: 100%;
+}
+.standardCell{
+	border: solid 1px green;
+}
+
+/*.customCursor{
+   cursor: url(images/catCursor.png), auto;
+}*/
